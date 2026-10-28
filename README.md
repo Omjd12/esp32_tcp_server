@@ -179,7 +179,3 @@ This communication architecture can be extended for:
 - Configuring Wi-Fi communication using ESP32.
 - Receiving and processing network data in Python.
 - Establishing a foundation for wireless robotics telemetry.
-
-## License
-
-No license has been specified for this project.
